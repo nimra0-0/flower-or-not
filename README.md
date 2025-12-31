@@ -1,3 +1,15 @@
+---
+title: Shared Garden
+emoji: 🌸
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: "6.2.0"
+app_file: app.py
+pinned: false
+python_version: "3.12"
+---
+
 # 🪴 Shared Garden (Model)
 
 Ever wondered if a neural network can tell whether your doodle is a flower… or just chaotic squiggles? 🌸✏️
