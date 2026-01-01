@@ -20,6 +20,8 @@ The goal is simple: train and export an image classifier that can distinguish be
 - 🌸 **Flower doodles**
 - ❌ **Not-flower doodles**
 
+![Demo](demo.gif)
+
 The model is trained on **hand-drawn sketches** from Google’s **QuickDraw dataset** and exported for easy reuse in future apps or demos(stay tuned — a fun interactive app is coming soon 👀).
 
 For details on training and experimentation, see(The notebook is still in draft so proceed with caution): [Kaggle Notebook](https://www.kaggle.com/code/nimra00/is-it-a-flower-doodle-edition)
